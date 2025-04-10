@@ -1,0 +1,12 @@
+server:
+  port: 8081
+spring:
+  mvc:
+    view:
+      prefix: /WEB-INF/views/
+      suffix: .jsp
+
+#spring.application.name=SpringBoot01_1
+#server.port = 8081
+#spring.mvc.view.prefix=/WEB-INF/views/
+#spring.mvc.view.suffix=.jsp
